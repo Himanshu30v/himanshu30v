@@ -16,8 +16,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=himanshu30v&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=himanshu30v&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🐍 Watch the Snake Eat My Contributions
 <div align="center">
