@@ -31,7 +31,7 @@
 
 ## 🚀 Featured Projects
 
-- 🔐 [SecureAuth – Password Strength Validator](https://github.com/Himanshu30v/SecureAuth)
+- 🔐 [SecureAuth – Password Strength Validator]([https://github.com/Himanshu30v/SecureAuth](https://github.com/Himanshu30v/Project-1-Password-Strength-Validator))
 - 🌐 [Personal Portfolio Website](https://himanshu30v.github.io/)
 - 💻 [C Programming Practice Repository](https://github.com/Himanshu30v/C-Practice)
 
