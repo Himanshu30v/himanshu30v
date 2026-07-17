@@ -46,9 +46,9 @@
 - 💻 [C Programming Practice Repository](https://github.com/Himanshu30v/C-Practice)
 
   ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=himanshu30v&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Himanshu30v&show_icons=true&theme=github_dark)
 ![](https://streak-stats.demolab.com/?user=himanshu30v&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=himanshu30v&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu30v&layout=compact&theme=github_dark)
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=himanshu30v&theme=radical&no-frame=false&no-bg=true&margin-w=4)
